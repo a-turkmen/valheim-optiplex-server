@@ -2,6 +2,7 @@
 
 Projet d'auto-hébergement et d'administration système d'un serveur privé multijoueur pour le jeu **Valheim** sur un PC de bureau reconditionné (**Dell OptiPlex 3020** de 2014) issu d'une opération de recyclage informatique de mon département **BUT Réseaux & Télécommunications**, sous **Debian 13**. L'objectif est d'offrir un serveur de jeu à mon groupe d'amis en garantissant la sécurité réseau et en diminuant la consommation électrique.
 
+
 ---
 
 ## 🎯 Pourquoi ce projet ? (Contexte & Objectifs)
