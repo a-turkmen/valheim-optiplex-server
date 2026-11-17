@@ -1,0 +1,16 @@
+[Unit]
+Description=Serveur Dédié Valheim
+After=network.target
+
+[Service]
+Type=simple
+User=valheim
+WorkingDirectory=/home/valheim/valheimserver
+ExecStart=/home/valheim/valheimserver/start_valheim.sh
+Restart=on-failure
+RestartSec=10
+KillSignal=SIGINT
+
+[Install]
+WantedBy=multi-user.target
+EOF
